@@ -8,4 +8,6 @@ line7
 
 topic Aを追加
 
+topic C
+
 topic B
